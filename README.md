@@ -1,6 +1,6 @@
 ## HoriSEOn-Challenge
 
-This project was a code refractor for the HoriSEOn website homepage. The refractoring improved web acessibility without modifying the presention of search engine
+This project was a code refractor for the HoriSEOn website homepage. The refractoring improved web acessibility without modifying the presention of search engine.
 
 ## 🔗 Links
 [Deployed Website](https://fazila92.github.io/HoriSEOn-Challenge/)
