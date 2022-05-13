@@ -9,5 +9,4 @@ This project was a code refractor for the HoriSEOn website homepage. The refract
 
 ## Screenshot
 
-[deployed website](https://raw.githubusercontent.com/Fazila92/HoriSEOn-Challenge/main/image.jpeg)
-
+![](https://github.com/Fazila92/HoriSEOn-Challenge/blob/main/image.jpeg)
